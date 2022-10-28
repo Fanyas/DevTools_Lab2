@@ -1,0 +1,3 @@
+[submodule "webproject"]
+	path = webproject
+	url = https://github.com/Fanyas/webproject.git
